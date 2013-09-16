@@ -1,0 +1,9 @@
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\bin\Debug\convertidor.exe
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\bin\Debug\convertidor.pdb
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\obj\x86\Debug\convertidor.Form1.resources
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\obj\x86\Debug\convertidor.Properties.Resources.resources
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\obj\x86\Debug\convertidor.exe
+E:\!DISCO_F\ISUR\aplicaciones\calculadora v1.1\calculadora\convertidor\obj\x86\Debug\convertidor.pdb

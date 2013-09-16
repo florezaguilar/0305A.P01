@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace calculadora
+namespace convertidor
 {
     static class Program
     {
@@ -15,7 +15,7 @@ namespace calculadora
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCalculadora());
+            Application.Run(new Form1());
         }
     }
 }
